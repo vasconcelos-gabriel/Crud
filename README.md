@@ -1,2 +1,2 @@
-# Crud
- Crud cadastro de cliente com localstorage
+# CRUD
+Crud de cadastro de clientes utilizando localstorage
